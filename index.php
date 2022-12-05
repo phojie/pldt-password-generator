@@ -1,4 +1,5 @@
 <?php
+
 Artisan::command('pldt {code}', function ($code) {
 	$table = [
 		'0' => 'f',
@@ -28,4 +29,3 @@ Artisan::command('pldt {code}', function ($code) {
 
 	$this->comment('wlan'.$code);
 })->purpose('Display PLDT password');
-?>
