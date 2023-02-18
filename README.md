@@ -1,6 +1,8 @@
 # ℹ️ PLDT default wifi password generator
 
-This is a simple script that generates a PLDT default wifi password based on the last code of Pldt default wifi name.
+ ⚠️ You need `PHP` installed to make this work.
+
+This is a simple `php` script that generates a PLDT default wifi password based on the last code of Pldt default wifi name.
 
 ## Installation
 
