@@ -1,4 +1,4 @@
-# ℹ️ PLDT default wifi password generator
+# ℹ️ PLDT password generator
 
  ⚠️ You need `PHP` installed to make this work.
 
